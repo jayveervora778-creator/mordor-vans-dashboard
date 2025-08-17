@@ -39,7 +39,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------- Authentication ----------
-PASSWORD = os.getenv("STREAMLIT_DASH_PASSWORD", "")
+PASSWORD = os.getenv("STREAMLIT_DASH_PASSWORD", "vans2025")
 
 # Dashboard header with logout option
 col1, col2 = st.columns([4, 1])
