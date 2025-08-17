@@ -46,4 +46,4 @@ This dashboard is deployed on Streamlit Cloud for permanent hosting and accessib
 
 ---
 
-**Powered by Mordor Intelligence** | **Survey Analysis Dashboard**
+**Powered by Mordor Intelligence** | **Survey Analysis Dashboard**# Streamlit Cloud Deployment Ready
